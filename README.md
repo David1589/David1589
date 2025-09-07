@@ -7,7 +7,7 @@
 <pre>
 💻 Electronic Engineer | Electronic systems maintenance technician
 📚 SAP MM/PM Certified – Logistics & Maintenance
-📝 I have a strong interest in building Frontend Uis for ML applications
+📝 Experience in Oil & Gas, Electronic Security, PCB Design & Industrial Systems
 🔭 Working on Shopify Themes and React websites using Gatsby.js
 🌱 Focusing on Learning about customer needs and making their lives easier
 🌟 Main languages: Javascript, Python
