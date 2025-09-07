@@ -1,12 +1,12 @@
-<h1 align="center"> Ingeniero David Mantilla</h1>
+<h1 align="center"> Hola, soy el Ingeniero David Mantilla</h1>
 
 <a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
 
 
 
 <pre>
-💻 Electronic Engineer | Electronic systems maintenance technician
-📚 SAP MM/PM Certified – Logistics & Maintenance
+💻 Ingeniero Electrónico | Técnico en Mantenimiento de Sistemas Electrónicos
+📚 SAP MM/PM Certificado Master – Logistica & Mantenimiento
 📝 Experience in Oil & Gas, Electronic Security, PCB Design & Industrial Systems
 🔭 Working on Shopify Themes and React websites using Gatsby.js
 🌱 Focusing on Learning about customer needs and making their lives easier
